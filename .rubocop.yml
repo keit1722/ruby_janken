@@ -1,0 +1,4 @@
+Metrics/AbcSize:
+  Max: 20
+Documentation:
+  Enabled: false
